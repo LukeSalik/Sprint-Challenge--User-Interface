@@ -34,14 +34,19 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+HTML stands for Hyper Text Markup Language. It is used to create webpages using tags which are used to hold content. HTML is the building blocks of webpages. 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
-
+display: inline, allows elements to be nested within other elements where as display: block does not. 
+display: block, must always begin on a new line. This is not the case with display: inline.
 3. What are the 4 areas of the box model?
 
+1.content edge 2.padding edge 3.border edge 4.margin edge.
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+Vertical axis.
 5. Explain why git is valuable to a team of developers.
 
+Version control. It allows developers access to the ability to revert code files to previous states, compare code to different versions and modify problematic code. This is beneficial when there are many developers working on the same project
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
